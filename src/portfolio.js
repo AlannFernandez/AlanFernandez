@@ -29,7 +29,7 @@ const socialMediaLinks = {
   gmail: "AlanFernandez14@outlook.com",
   instagram: "https://www.instagram.com/_fernandezalan/",
   facebook: "",
-  whatsapp: "https://api.whatsapp.com/send?phone=3756451433",
+  whatsapp: "https://api.whatsapp.com/send?phone=+543756451433",
   stackoverflow: "",  
   display: true // Set true to display this section, defaults to false
 };
