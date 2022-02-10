@@ -70,6 +70,14 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
+      skillName:"React ",
+      fontAwesomeClassname:"fab fa-react"
+    },    
+    {
+      skillName:"Angular",
+      fontAwesomeClassname:"fab fa-angular"
+    },    
+    {
       skillName: "php",
       fontAwesomeClassname: "fab fa-php"
     },
